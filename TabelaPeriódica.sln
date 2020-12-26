@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabelaPeriódica", "TabelaPeriódica\TabelaPeriódica.csproj", "{58318268-A6F1-436F-85F8-16C1CB395BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58318268-A6F1-436F-85F8-16C1CB395BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58318268-A6F1-436F-85F8-16C1CB395BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58318268-A6F1-436F-85F8-16C1CB395BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58318268-A6F1-436F-85F8-16C1CB395BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41944675-2445-44D5-9236-E3303E92C12F}
+	EndGlobalSection
+EndGlobal

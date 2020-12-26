@@ -1,0 +1,11 @@
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\bin\Debug\TabelaPeriódica.exe.config
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\bin\Debug\TabelaPeriódica.exe
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\bin\Debug\TabelaPeriódica.pdb
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.Form1.resources
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.Properties.Resources.resources
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.csproj.GenerateResource.cache
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.csproj.CoreCompileInputs.cache
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.exe
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.pdb
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.FormApresentacao.resources
+C:\Users\Doug_\source\repos\TabelaPeriódica\TabelaPeriódica\obj\Debug\TabelaPeriódica.csprojAssemblyReference.cache
